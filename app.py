@@ -1,1 +1,1 @@
-
+convidadosDaFesta = ['Ricardo', 'Nicolle', 'Danilo']
